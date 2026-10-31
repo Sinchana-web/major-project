@@ -1,0 +1,7 @@
+{
+  "name": "Pashu Pehchaan",
+  "description": "AI-powered livestock breed recognition and ICAR-NBAGR national breed intelligence suite for Indian cattle and buffalo.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

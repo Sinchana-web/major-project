@@ -1,0 +1,18 @@
+{
+  "short_name": "PashuPehchaan",
+  "name": "Pashu Pehchaan - AI Livestock Recognition",
+  "description": "AI-powered livestock breed recognition and ICAR-NBAGR national breed intelligence suite for Indian cattle and buffalo.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#15803d",
+  "display": "standalone",
+  "orientation": "portrait"
+}
